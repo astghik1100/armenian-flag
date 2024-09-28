@@ -1,0 +1,17 @@
+.flag{
+    width: 300px;
+}
+
+.flag-field{
+    width: 100%;
+    height: 100px;
+}
+.red{
+    background-color: #FF0000EF;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
